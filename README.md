@@ -1,4 +1,15 @@
-### Olá, Eu sou o Hevair Tavares
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="https://user-images.githubusercontent.com/92383218/137331115-7fb6ac9a-873f-46e3-af48-319cd08ddfc5.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="300" src="https://user-images.githubusercontent.com/92383218/137316055-378aef49-8cc0-4de2-a612-0ec3ba0f07e6.gif" />
+  </a>
+  
+</br>
+
+### Olá, Eu sou o Hevair Tavares  
+##
 
 <p align="center">
   <a href="https://github.com/Hevairpro">
